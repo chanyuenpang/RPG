@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Triangle.iml" filepath="$PROJECT_DIR$/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../cocos2dx/platform/android/java/cocos2dx.iml" filepath="$PROJECT_DIR$/../../../../cocos2dx/platform/android/java/cocos2dx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../VeeCommon/platform/android/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/../../../VeeCommon/platform/android/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../plugin/plugins/adMongo/proj.android/libPluginAdsMongo.iml" filepath="$PROJECT_DIR$/../../../../plugin/plugins/adMongo/proj.android/libPluginAdsMongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../plugin/protocols/proj.android/libPluginProtocol.iml" filepath="$PROJECT_DIR$/../../../../plugin/protocols/proj.android/libPluginProtocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../plugin/plugins/umeng/proj.android/libPluginUmeng.iml" filepath="$PROJECT_DIR$/../../../../plugin/plugins/umeng/proj.android/libPluginUmeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../VeeCommon/platform/android/social_sdk_library_project/social_sdk_library_project.iml" filepath="$PROJECT_DIR$/../../../VeeCommon/platform/android/social_sdk_library_project/social_sdk_library_project.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+environment/project/0.756827735/COCOS2DX_ROOT/delimiter=\:
+environment/project/0.756827735/COCOS2DX_ROOT/operation=append
+environment/project/0.756827735/COCOS2DX_ROOT/value=/Users/brooklyn/Code/Xcode/cocos2dx-for-spritebuilder/
+environment/project/0.756827735/NDK_MODULE_PATH/delimiter=\:
+environment/project/0.756827735/NDK_MODULE_PATH/operation=replace
+environment/project/0.756827735/NDK_MODULE_PATH/value=/Users/brooklyn/Code/Xcode/cocos2dx-for-spritebuilder\:/Users/brooklyn/Code/Xcode/cocos2dx-for-spritebuilder/cocos2dx/platform/third_party/android/prebuilt
+environment/project/0.756827735/NDK_ROOT/delimiter=\:
+environment/project/0.756827735/NDK_ROOT/operation=append
+environment/project/0.756827735/NDK_ROOT/value=/Users/brooklyn/Code/android/android-ndk-r8d
+environment/project/0.756827735/SDK_ROOT/delimiter=\:
+environment/project/0.756827735/SDK_ROOT/operation=append
+environment/project/0.756827735/SDK_ROOT/value=/Users/brooklyn/Code/android/sdk/
+environment/project/0.756827735/append=true
+environment/project/0.756827735/appendContributed=true

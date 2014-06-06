@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Triangle</string>
+    <string name="app_url">http://play.google.com/store/apps/details?id=com.veewo.math</string>
+    <string name="wx_appid">wx628e8be04c0507e3</string>
+    <string name="facebook_app_id">220422554829850</string>
+
+    <string name="umeng_app_key">5342cd0956240b5a18213fb2</string>
+
+    <!-- TODO: Replace this by your app's app ID! -->
+    <string name="googleplay_app_id">627586756504</string>
+
+    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+
+    <!--<string name="umeng_channel">yuzhuang</string>-->
+    <string name="umeng_channel">Google Play</string>
+
+</resources>

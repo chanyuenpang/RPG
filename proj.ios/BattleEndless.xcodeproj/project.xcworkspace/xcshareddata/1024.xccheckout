@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B8178A35-AF63-4511-89E6-73FFE8FCA67C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>1024</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49DD0F5B-76F9-4FA8-BD14-4E188E4336C7</key>
+		<string>ssh://192.168.199.234/1024-code/1024-code.git</string>
+		<key>C6D87A05-12CD-442A-B9DE-FD53BF3052EF</key>
+		<string>ssh://192.168.199.234/veecommon/veecommon.git</string>
+		<key>F0FFBA6A-68AD-4B76-8AEF-A5947EDD7799</key>
+		<string>ssh://192.168.199.234/cocos2dx-for-spritebuilder/cocos2dx-for-spritebuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samples/Javascript/1024/proj.ios/1024.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49DD0F5B-76F9-4FA8-BD14-4E188E4336C7</key>
+		<string>../../..</string>
+		<key>C6D87A05-12CD-442A-B9DE-FD53BF3052EF</key>
+		<string>../../../../../VeeCommon</string>
+		<key>F0FFBA6A-68AD-4B76-8AEF-A5947EDD7799</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://192.168.199.234/1024-code/1024-code.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F0FFBA6A-68AD-4B76-8AEF-A5947EDD7799</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49DD0F5B-76F9-4FA8-BD14-4E188E4336C7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>1024</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F0FFBA6A-68AD-4B76-8AEF-A5947EDD7799</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2dx-for-spritebuilder</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6D87A05-12CD-442A-B9DE-FD53BF3052EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VeeCommon</string>
+		</dict>
+	</array>
+</dict>
+</plist>

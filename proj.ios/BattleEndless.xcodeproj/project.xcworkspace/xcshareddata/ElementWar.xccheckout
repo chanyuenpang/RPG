@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B040DCC-135B-47DC-8079-000353D334F4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ElementWar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>16B31050-EA08-4937-BF96-8102C7318112</key>
+		<string>ssh://192.168.199.234/mosnter-commander/mosnter-commander.git</string>
+		<key>6ABD899A-3787-481A-97BD-783FFDE98BA0</key>
+		<string>ssh://192.168.199.234/cocos2dx-for-spritebuilder/cocos2dx-for-spritebuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samples/Javascript/ElementWar/proj.ios/ElementWar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>16B31050-EA08-4937-BF96-8102C7318112</key>
+		<string>../../..</string>
+		<key>6ABD899A-3787-481A-97BD-783FFDE98BA0</key>
+		<string>../../../../../..</string>
+		<key>F0A216C9-FF55-4DA4-B7CB-1F98E5696296</key>
+		<string>../../../../../VeeCommon</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://192.168.199.234/mosnter-commander/mosnter-commander.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6ABD899A-3787-481A-97BD-783FFDE98BA0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6ABD899A-3787-481A-97BD-783FFDE98BA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2dx-for-spritebuilder</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>16B31050-EA08-4937-BF96-8102C7318112</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ElementWar</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F0A216C9-FF55-4DA4-B7CB-1F98E5696296</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VeeCommon</string>
+		</dict>
+	</array>
+</dict>
+</plist>

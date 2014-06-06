@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E1AA90F-40B8-4F94-AF5A-10D084D77CCE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>triangle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1934388F-5613-40F4-9C25-DDDD7560DBB8</key>
+		<string>ssh://192.168.199.234/cocos2dx-for-spritebuilder/cocos2dx-for-spritebuilder.git</string>
+		<key>717B5290-F353-4D03-8632-163651A6F13D</key>
+		<string>ssh://192.168.199.234/1024monster/1024monster.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samples/Javascript/FreakingMath/proj.ios/triangle.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1934388F-5613-40F4-9C25-DDDD7560DBB8</key>
+		<string>../../../../../..</string>
+		<key>5C4A324B-1D94-4C43-969D-9E39E8753E42</key>
+		<string>../../../../../VeeCommon</string>
+		<key>717B5290-F353-4D03-8632-163651A6F13D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://192.168.199.234/1024monster/1024monster.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1934388F-5613-40F4-9C25-DDDD7560DBB8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1934388F-5613-40F4-9C25-DDDD7560DBB8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2dx-for-spritebuilder</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>717B5290-F353-4D03-8632-163651A6F13D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FreakingMath</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C4A324B-1D94-4C43-969D-9E39E8753E42</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VeeCommon</string>
+		</dict>
+	</array>
+</dict>
+</plist>

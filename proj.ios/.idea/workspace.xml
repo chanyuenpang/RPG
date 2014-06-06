@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61a02012-a9ed-45d1-a6ff-50d97fae4af7" name="Default" comment="" />
+    <ignored path="Math.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_iPad_7.1" />
+  <component name="FavoritesManager">
+    <favorites_list name="BattleEndless" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="lyPopUp.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../code/lyPopUp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="57" selection-start="1449" selection-end="1449" vertical-scroll-proportion="0.0" vertical-offset="791" max-vertical-offset="1400">
+              <folding>
+                <element signature="e#0#147#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lyEffect.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../code/lyEffect.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="460">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsb_cocos2d.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../plugin/samples/HelloAnalytics-JS/proj.android/assets/jsb_cocos2d.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="123" column="3" selection-start="3241" selection-end="3241" vertical-scroll-proportion="0.0" vertical-offset="2271" max-vertical-offset="17040">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="element.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../code/element.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="28" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.0" vertical-offset="1179" max-vertical-offset="1640">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controls.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../VeeCommon/js/common/controls.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="326" column="54" selection-start="8298" selection-end="8298" vertical-scroll-proportion="0.0" vertical-offset="5932" max-vertical-offset="7260">
+              <folding>
+                <element signature="e#7445#7472#0" expanded="false" />
+                <element signature="e#7501#7611#0" expanded="false" />
+                <element signature="e#7673#7702#0" expanded="false" />
+                <element signature="e#7742#7770#0" expanded="false" />
+                <element signature="e#7774#7863#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCSprite.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../cocos2dx/sprite_nodes/CCSprite.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="307" column="17" selection-start="11992" selection-end="11992" vertical-scroll-proportion="0.0" vertical-offset="5874" max-vertical-offset="11220">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsb_cocos2dx_extension_manual.cpp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../scripting/javascript/bindings/jsb_cocos2dx_extension_manual.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="276" column="0" selection-start="8387" selection-end="8387" vertical-scroll-proportion="0.0" vertical-offset="5288" max-vertical-offset="15680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="role.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../code/role.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="1" selection-start="3568" selection-end="3568" vertical-scroll-proportion="0.0" vertical-offset="1572" max-vertical-offset="2020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapData.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../code/mapData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="185" column="25" selection-start="3494" selection-end="3494" vertical-scroll-proportion="0.0" vertical-offset="1139" max-vertical-offset="1600">
+              <folding>
+                <element signature="e#248#362#0" expanded="false" />
+                <element signature="e#366#482#0" expanded="false" />
+                <element signature="e#486#600#0" expanded="false" />
+                <element signature="e#604#722#0" expanded="false" />
+                <element signature="e#726#845#0" expanded="false" />
+                <element signature="e#849#975#0" expanded="false" />
+                <element signature="e#979#1098#0" expanded="false" />
+                <element signature="e#1102#1216#0" expanded="false" />
+                <element signature="e#1220#1343#0" expanded="false" />
+                <element signature="e#1347#1470#0" expanded="false" />
+                <element signature="e#1474#1597#0" expanded="false" />
+                <element signature="e#1601#1726#0" expanded="false" />
+                <element signature="e#1730#1859#0" expanded="false" />
+                <element signature="e#1863#1986#0" expanded="false" />
+                <element signature="e#1990#2118#0" expanded="false" />
+                <element signature="e#2122#2249#0" expanded="false" />
+                <element signature="e#2253#2380#0" expanded="false" />
+                <element signature="e#2384#2517#0" expanded="false" />
+                <element signature="e#2521#2659#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../code/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.60954446" vertical-offset="59" max-vertical-offset="820">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../code/battleUnit.js" />
+        <option value="$PROJECT_DIR$/../../../VeeCommon/js/common/utils.js" />
+        <option value="$PROJECT_DIR$/../code/gameConfig.js" />
+        <option value="$PROJECT_DIR$/../code/monster.js" />
+        <option value="$PROJECT_DIR$/../code/lyEffect.js" />
+        <option value="$PROJECT_DIR$/../code/lyDamage.js" />
+        <option value="$PROJECT_DIR$/../code/lyGame.js" />
+        <option value="$PROJECT_DIR$/../code/lyMap.js" />
+        <option value="$PROJECT_DIR$/../code/lyPopUp.js" />
+        <option value="$PROJECT_DIR$/../../../VeeCommon/js/common/controls.js" />
+        <option value="$PROJECT_DIR$/../code/element.js" />
+        <option value="$PROJECT_DIR$/../code/mapData.js" />
+        <option value="$PROJECT_DIR$/../code/role.js" />
+        <option value="$PROJECT_DIR$/../code/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BattleEndless" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BattleEndless" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BattleEndless">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="BattleEndless" TARGET_NAME="BattleEndless" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="BattleEndless" RUN_TARGET_NAME="BattleEndless" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="BattleEndless" TARGET_NAME="BattleEndless" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BattleEndless" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="BattleEndless" PROJECT_NAME="BattleEndless" TARGET_NAME="BattleEndless" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="BattleEndless" RUN_TARGET_NAME="BattleEndless" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cocos2dx" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="cocos2dx" PROJECT_NAME="cocos2dx" TARGET_NAME="cocos2dx" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PluginAdmongo" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="PluginAdmongo" PROJECT_NAME="PluginAdmongo" TARGET_NAME="PluginAdmongo" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PluginIAP" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="PluginIAP" PROJECT_NAME="PluginIAP" TARGET_NAME="PluginIAP" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PluginProtocol" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="PluginProtocol" PROJECT_NAME="PluginProtocol" TARGET_NAME="PluginProtocol" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.BattleEndless" />
+      <item index="1" class="java.lang.String" itemvalue="Application.cocos2dx" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PluginAdmongo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PluginIAP" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PluginProtocol" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a02012-a9ed-45d1-a6ff-50d97fae4af7" name="Default" comment="" />
+      <created>1399601388688</created>
+      <updated>1399601388688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27147487" sideWeight="0.6703297" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="7" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="807" max-vertical-offset="3820">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code/lyGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="44" selection-start="922" selection-end="922" vertical-scroll-proportion="15.36" vertical-offset="1044" max-vertical-offset="1720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code/lyDamage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="22" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
+          <folding>
+            <element signature="e#0#148#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../scripting/javascript/bindings/js/jsb_cocosbuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="69" selection-start="2213" selection-end="2213" vertical-scroll-proportion="0.0" vertical-offset="1500" max-vertical-offset="3680">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../extensions/GUI/CCScrollView/CCTableView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="180" column="11" selection-start="5190" selection-end="5281" vertical-scroll-proportion="-8.658537" vertical-offset="3165" max-vertical-offset="6140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code/lyPopUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="57" selection-start="1449" selection-end="1449" vertical-scroll-proportion="0.0" vertical-offset="791" max-vertical-offset="1400">
+          <folding>
+            <element signature="e#0#147#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../VeeCommon/js/common/controls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="326" column="54" selection-start="8298" selection-end="8298" vertical-scroll-proportion="0.0" vertical-offset="5932" max-vertical-offset="7260">
+          <folding>
+            <element signature="e#7445#7472#0" expanded="false" />
+            <element signature="e#7501#7611#0" expanded="false" />
+            <element signature="e#7673#7702#0" expanded="false" />
+            <element signature="e#7742#7770#0" expanded="false" />
+            <element signature="e#7774#7863#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code/lyEffect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="461">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../plugin/samples/HelloAnalytics-JS/proj.android/assets/jsb_cocos2d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="3" selection-start="3241" selection-end="3241" vertical-scroll-proportion="0.0" vertical-offset="2271" max-vertical-offset="17040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../cocos2dx/sprite_nodes/CCSprite.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="307" column="17" selection-start="11992" selection-end="11992" vertical-scroll-proportion="0.0" vertical-offset="5874" max-vertical-offset="11220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../scripting/javascript/bindings/jsb_cocos2dx_extension_manual.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="276" column="0" selection-start="8387" selection-end="8387" vertical-scroll-proportion="0.0" vertical-offset="5288" max-vertical-offset="15680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../scripting/javascript/spidermonkey-ios/include/js/Value.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="471" column="35" selection-start="16655" selection-end="16655" vertical-scroll-proportion="0.30813953" vertical-offset="9048" max-vertical-offset="36340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code/element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="28" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.0" vertical-offset="1179" max-vertical-offset="1640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code/mapData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="25" selection-start="3494" selection-end="3494" vertical-scroll-proportion="0.0" vertical-offset="1139" max-vertical-offset="1600">
+          <folding>
+            <element signature="e#248#362#0" expanded="false" />
+            <element signature="e#366#482#0" expanded="false" />
+            <element signature="e#486#600#0" expanded="false" />
+            <element signature="e#604#722#0" expanded="false" />
+            <element signature="e#726#845#0" expanded="false" />
+            <element signature="e#849#975#0" expanded="false" />
+            <element signature="e#979#1098#0" expanded="false" />
+            <element signature="e#1102#1216#0" expanded="false" />
+            <element signature="e#1220#1343#0" expanded="false" />
+            <element signature="e#1347#1470#0" expanded="false" />
+            <element signature="e#1474#1597#0" expanded="false" />
+            <element signature="e#1601#1726#0" expanded="false" />
+            <element signature="e#1730#1859#0" expanded="false" />
+            <element signature="e#1863#1986#0" expanded="false" />
+            <element signature="e#1990#2118#0" expanded="false" />
+            <element signature="e#2122#2249#0" expanded="false" />
+            <element signature="e#2253#2380#0" expanded="false" />
+            <element signature="e#2384#2517#0" expanded="false" />
+            <element signature="e#2521#2659#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code/role.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="1" selection-start="3568" selection-end="3568" vertical-scroll-proportion="0.0" vertical-offset="1572" max-vertical-offset="2020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.60954446" vertical-offset="59" max-vertical-offset="820">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

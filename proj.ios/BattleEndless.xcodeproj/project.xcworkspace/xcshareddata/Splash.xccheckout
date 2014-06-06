@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4235FF75-25E6-4988-AFF8-E7D3CF973D21</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Splash</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>087576CA-67E1-4A74-B4E9-9FF899AA15C1</key>
+		<string>ssh://192.168.199.234/splash/splash.git</string>
+		<key>AADF7F8D-E485-4FC6-B4CB-AE4E76EEACCD</key>
+		<string>ssh://192.168.199.234/cocos2dx-for-spritebuilder/cocos2dx-for-spritebuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samples/Javascript/Splash/proj.ios/Splash.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>087576CA-67E1-4A74-B4E9-9FF899AA15C1</key>
+		<string>../../..</string>
+		<key>AADF7F8D-E485-4FC6-B4CB-AE4E76EEACCD</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://192.168.199.234/splash/splash.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AADF7F8D-E485-4FC6-B4CB-AE4E76EEACCD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AADF7F8D-E485-4FC6-B4CB-AE4E76EEACCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2dx-for-spritebuilder</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>087576CA-67E1-4A74-B4E9-9FF899AA15C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Splash</string>
+		</dict>
+	</array>
+</dict>
+</plist>

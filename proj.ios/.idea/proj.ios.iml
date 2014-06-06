@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../../../TestSB.spritebuilder/Source/Resources/Published-iOS">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../TestSB.spritebuilder/Source/Resources/Published-iOS" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../CocosDenshion">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../CocosDenshion" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../cocos2dx">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../cocos2dx" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../extensions">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../extensions" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../plugin">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../plugin" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../plugin/protocols/PluginManager.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../plugin/protocols/PluginManager.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../plugin/protocols/PluginParam.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../plugin/protocols/PluginParam.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../Classes">
+      <sourceFolder url="file://$MODULE_DIR$/../Classes" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../Resources/Code">
+      <sourceFolder url="file://$MODULE_DIR$/../Resources/Code" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../Splash.spritebuilder/Source/Resources/Published-iOS">
+      <sourceFolder url="file://$MODULE_DIR$/../Splash.spritebuilder/Source/Resources/Published-iOS" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../code">
+      <sourceFolder url="file://$MODULE_DIR$/../code" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../../../VeeCommon/c++/Common">
+      <sourceFolder url="file://$MODULE_DIR$/../../../VeeCommon/c++/Common" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../VeeCommon/js">
+      <sourceFolder url="file://$MODULE_DIR$/../../../VeeCommon/js" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../VeeCommon/platform/android">
+      <sourceFolder url="file://$MODULE_DIR$/../../../VeeCommon/platform/android" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../VeeCommon/platform/ios">
+      <sourceFolder url="file://$MODULE_DIR$/../../../VeeCommon/platform/ios" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../scripting/javascript/bindings">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../scripting/javascript/bindings" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+
