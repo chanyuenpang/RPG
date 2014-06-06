@@ -61,16 +61,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controls.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="controls.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../../VeeCommon/js/common/controls.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="326" column="54" selection-start="8298" selection-end="8298" vertical-scroll-proportion="0.0" vertical-offset="5932" max-vertical-offset="7260">
+            <state line="13" column="0" selection-start="269" selection-end="269" vertical-scroll-proportion="0.6146572" vertical-offset="0" max-vertical-offset="8060">
               <folding>
-                <element signature="e#7445#7472#0" expanded="false" />
-                <element signature="e#7501#7611#0" expanded="false" />
-                <element signature="e#7673#7702#0" expanded="false" />
-                <element signature="e#7742#7770#0" expanded="false" />
-                <element signature="e#7774#7863#0" expanded="false" />
+                <element signature="e#8556#8583#0" expanded="false" />
+                <element signature="e#8612#8722#0" expanded="false" />
+                <element signature="e#8784#8813#0" expanded="false" />
+                <element signature="e#8853#8881#0" expanded="false" />
+                <element signature="e#8885#8974#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -132,10 +132,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../code/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.60954446" vertical-offset="59" max-vertical-offset="820">
+            <state line="17" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="820">
               <folding />
             </state>
           </provider>
@@ -378,19 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../VeeCommon/js/common/controls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="326" column="54" selection-start="8298" selection-end="8298" vertical-scroll-proportion="0.0" vertical-offset="5932" max-vertical-offset="7260">
-          <folding>
-            <element signature="e#7445#7472#0" expanded="false" />
-            <element signature="e#7501#7611#0" expanded="false" />
-            <element signature="e#7673#7702#0" expanded="false" />
-            <element signature="e#7742#7770#0" expanded="false" />
-            <element signature="e#7774#7863#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../code/lyEffect.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="461">
@@ -469,8 +456,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../code/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.60954446" vertical-offset="59" max-vertical-offset="820">
+        <state line="17" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="820">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../VeeCommon/js/common/controls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="269" selection-end="269" vertical-scroll-proportion="0.6146572" vertical-offset="0" max-vertical-offset="8060">
+          <folding>
+            <element signature="e#8556#8583#0" expanded="false" />
+            <element signature="e#8612#8722#0" expanded="false" />
+            <element signature="e#8784#8813#0" expanded="false" />
+            <element signature="e#8853#8881#0" expanded="false" />
+            <element signature="e#8885#8974#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
