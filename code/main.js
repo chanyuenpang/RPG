@@ -27,6 +27,7 @@ function main()
 {
 	cc.Director.getInstance().setDisplayStats(false);
 	vee.PopMgr.resetScene();
+	Role.reload();
 	vee.GameModule.SceneMgr.openGame();
 	vee.Ad.activate(function(){
 		vee.Ad.showBannerAd(vee.Ad.Position.Top);

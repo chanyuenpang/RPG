@@ -53,9 +53,12 @@ var LyGame = vee.Class.extend({
 		var time = new Date();
 		var duration = time - this._lastTapTime;
 		if (duration > 300) {
-			var dam = vee.Utils.randomInt(10000, 29000000);
-			this._ctlEffect.showDamage(dam, context.getLastPointInWorld());
-			this._lastTapTime = time;
+			var pos = context.getLastPointInWorld();
+			if (this._ctlMonster.isMonsterTouched(pos)) {
+				var dam = this._ctlMonster.attacked();
+				this._ctlEffect.showDamage(dam, pos);
+				this._lastTapTime = time;
+			}
 		}
 	},
 
