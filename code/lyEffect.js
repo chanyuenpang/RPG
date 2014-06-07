@@ -14,5 +14,9 @@ var LyEffect = vee.Class.extend({
 		/** @type {LyDamage} **/
 		var ctl = node.controller;
 		ctl.setDamage(value, pos);
+	},
+
+	monsterAttack : function(value){
+
 	}
 });

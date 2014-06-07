@@ -148,6 +148,10 @@ var MapData = {
 		}
 	],
 
+	/**
+	 * @param idx
+	 * @returns {MapData.DataFormat}
+	 */
 	getDataByIndex : function(idx){
 		var data = this._data[idx];
 		data.image = this.getMapImage(idx+1);
