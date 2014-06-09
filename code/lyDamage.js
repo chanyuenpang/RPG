@@ -9,13 +9,15 @@
 var LyDamage = vee.Class.extend({
 	setDamage : function(value, pos){
 		/** @type {cc.LabelBMFont} **/
-		pos.y += 100+vee.Utils.randomInt(-20,20);
-		pos.x += 50+vee.Utils.randomInt(-20,20);
 		var lb = this.lbDamage;
 		var str = ''+value;
 		lb.setString(str);
 		var adjust = str.length-3;
-		this.rootNode.setScale(Math.max(0.5, 0.5+adjust*0.1));
+		var scale = Math.max(0.5, 0.5+adjust*0.2);
+		this.rootNode.setScale(scale);
+		pos.y += 100*scale+vee.Utils.randomInt(-40*scale,40*scale);
+		pos.x += vee.Utils.randomInt(-40*scale,40*scale);
+
 		if (adjust > 0){
 			adjust = Math.min(Math.ceil(adjust/3)*50, 180);
 			this.spPreBubble.setPositionX(-adjust);

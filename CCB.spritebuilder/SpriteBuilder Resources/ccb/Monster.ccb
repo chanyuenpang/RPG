@@ -7,7 +7,7 @@
 	<key>currentResolution</key>
 	<integer>0</integer>
 	<key>currentSequenceId</key>
-	<integer>3</integer>
+	<integer>0</integer>
 	<key>docDimensionsType</key>
 	<integer>2</integer>
 	<key>fileType</key>
@@ -238,7 +238,7 @@
 												<key>opt</key>
 												<real>2</real>
 												<key>type</key>
-												<integer>2</integer>
+												<integer>3</integer>
 											</dict>
 											<key>name</key>
 											<string>position</string>
@@ -258,12 +258,12 @@
 												<key>opt</key>
 												<real>2</real>
 												<key>type</key>
-												<integer>3</integer>
+												<integer>1</integer>
 											</dict>
 											<key>name</key>
 											<string>position</string>
 											<key>time</key>
-											<real>0.40000000596046448</real>
+											<real>0.30000001192092896</real>
 											<key>type</key>
 											<integer>3</integer>
 											<key>value</key>
@@ -281,7 +281,7 @@
 											<key>name</key>
 											<string>position</string>
 											<key>time</key>
-											<real>0.56666666269302368</real>
+											<real>0.46666666865348816</real>
 											<key>type</key>
 											<integer>3</integer>
 											<key>value</key>
@@ -306,7 +306,7 @@
 												<key>opt</key>
 												<real>2</real>
 												<key>type</key>
-												<integer>2</integer>
+												<integer>3</integer>
 											</dict>
 											<key>name</key>
 											<string>scale</string>
@@ -326,12 +326,12 @@
 												<key>opt</key>
 												<real>2</real>
 												<key>type</key>
-												<integer>3</integer>
+												<integer>1</integer>
 											</dict>
 											<key>name</key>
 											<string>scale</string>
 											<key>time</key>
-											<real>0.40000000596046448</real>
+											<real>0.30000001192092896</real>
 											<key>type</key>
 											<integer>4</integer>
 											<key>value</key>
@@ -349,7 +349,7 @@
 											<key>name</key>
 											<string>scale</string>
 											<key>time</key>
-											<real>0.56666666269302368</real>
+											<real>0.46666666865348816</real>
 											<key>type</key>
 											<integer>4</integer>
 											<key>value</key>
@@ -521,11 +521,11 @@
 						<key>customClass</key>
 						<string></string>
 						<key>displayName</key>
-						<string>Monster</string>
+						<string>lyMonster</string>
 						<key>memberVarAssignmentName</key>
-						<string></string>
+						<string>lyMonster</string>
 						<key>memberVarAssignmentType</key>
-						<integer>0</integer>
+						<integer>1</integer>
 						<key>properties</key>
 						<array>
 							<dict>
@@ -598,6 +598,8 @@
 								</array>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 						<key>seqExpanded</key>
 						<true/>
 					</dict>
@@ -665,8 +667,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>0.34999999403953552</real>
-							<real>0.34999999403953552</real>
+							<real>1.5</real>
+							<real>1.5</real>
 							<true/>
 							<integer>0</integer>
 						</array>
@@ -1016,7 +1018,7 @@
 	<array>
 		<dict>
 			<key>autoPlay</key>
-			<true/>
+			<false/>
 			<key>callbackChannel</key>
 			<dict>
 				<key>keyframes</key>
@@ -1033,7 +1035,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>0.0</real>
+			<real>1</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
@@ -1069,7 +1071,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>0.0</real>
+			<real>0.5</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
@@ -1137,7 +1139,7 @@
 			<key>length</key>
 			<real>1</real>
 			<key>name</key>
-			<string>Untitled Timeline</string>
+			<string>Attack</string>
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>

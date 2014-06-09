@@ -176,18 +176,18 @@ var MapCell = VeeTableCellController.extend({
 	/** @type {cc.Sprite} */
 	spLand : null,
 
-	updateIndex : function(idx) {
+	updateIndex : function(idx, dataSource) {
 		/** @type {MapData.DataFormat} */
-		var data = MapData.getDataByIndex(idx);
+		var data = dataSource.getDataByIndex(idx);
 		var sp = cc.Sprite.create(data.image);
 		this.spLand.setTexture(sp.getTexture());
-		this.lyBG.setColor(cc.c3b(255,255,255));
-//		this.spLand.setColor(game.Element.getMajorColor(data.element));
-		this.spLand.setColor(game.Element.getSubColor(data.element));
+//		this.lyBG.setColor(cc.c3b(255,255,255));
+		this.spLand.setColor(game.Element.getMajorColor(data.element));
+		this.lyBG.setColor(game.Element.getSubColor(data.element));
 		this.lbName.setString(game.Strings.getString(data.name));
 	},
 
-	touched : function(){
+	touched : function(table){
 		cc.log("touched " + this.getIdx());
 	}
 });

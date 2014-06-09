@@ -40,23 +40,23 @@ game.Element = {
 	],
 
 	_majorColor : [
-		{r:153, g:153, b:153 },
-		{r:130, g:222, b:132 },
+		{r:170, g:170, b:170 },
+		{r: 63, g:207, b: 76 },
 		{r:255, g: 68, b: 50 },
 		{r: 66, g:193, b:255 },
 		{r:121, g:251, b:255 },
-		{r:253, g:225, b: 92 },
+		{r:255, g:242, b: 68 },
 		{r:197, g:133, b: 84 }
 	],
 
 	_subColor : [
-		{r:203, g:203, b:203 },
+		{r:200, g:200, b:200 },
 		{r:195, g:237, b:171 },
 		{r:252, g:173, b:173 },
 		{r:199, g:235, b:248 },
 		{r:218, g:254, b:253 },
 		{r:253, g:249, b:181 },
-		{r:243, g:181, b:164 }
+		{r:232, g:187, b:111 }
 	],
 
 	getAdjust : function(ele1, ele2) {
@@ -73,5 +73,10 @@ game.Element = {
 
 	getSubColor : function(ele){
 		return this._subColor[ele];
+	},
+
+	getRandomElement : function(){
+		if (RoleData.maxMapLevel >= 4) return vee.Utils.randomInt(0,6);
+		else return vee.Utils.randomInt(0,3);
 	}
 }

@@ -13,13 +13,19 @@ var LyPopUp = vee.Class.extend({
 
 	onDidLoadFromCCB : function(){
 		this.lyTouch.setTouchEnabled(false);
-		vee.PopMgr.resetLayer(this.btnClose, vee.PopMgr.PositionType.BottomRight, cc.p(0,-52-100), true);
+		var y = this.btnClose.getPositionY();
+		vee.PopMgr.resetLayer(this.btnClose, vee.PopMgr.PositionType.Right, cc.p(0,0), true);
+		this.btnClose.setPositionY(y);
 		this.btnClose.setTouchPriority(0);
+		this.btnCloseEmpty.setTouchPriority(0);
+		this.btnCloseEmpty.setVisible(false);
 		this.lyBG.setVisible(false);
 	},
 
 	/** @param {LyPopUp.Type} */
 	open : function(type) {
+		this.btnCloseEmpty.setVisible(true);
+		this.rootNode.setVisible(true);
 		this.lyBG.setVisible(true);
 		var fadeIn = cc.FadeTo.create(0.35, 128);
 		this.lyBG.runAction(fadeIn);
@@ -27,10 +33,11 @@ var LyPopUp = vee.Class.extend({
 		this.lyTouch.setTouchEnabled(true);
 		var adjust = vee.PopMgr.originOffset.y;
 		var move = cc.MoveTo.create(0.35, cc.p(0, adjust));
-		this.rootNode.runAction(move);
+		this.rootNode.runAction(cc.EaseExponentialIn.create(move));
 	},
 
 	onClose : function(){
+		this.btnCloseEmpty.setVisible(false);
 		var fadeOut = cc.FadeTo.create(0.35, 0);
 		this.lyBG.runAction(fadeOut);
 		var move = cc.MoveTo.create(0.35, cc.p(0, -880));
@@ -42,15 +49,23 @@ var LyPopUp = vee.Class.extend({
 		this.rootNode.runAction(cc.Sequence.create(move, back));
 	},
 
+	onCloseEmpty : function(){
+		this.onClose();
+	},
+
 	getContentByType : function(type) {
 		switch (type){
 			case LyPopUp.Type.Status:
+			{
+				var node = cc.BuilderReader.load("lyRoleInfo.ccbi");
+				this.lyBody.addChild(node);
+			}
 				break;
 			case LyPopUp.Type.Equipment:
 				break;
 			case LyPopUp.Type.Map:
 			{
-				var list = VeeTableViewController.createTableView(this.lyBody.getContentSize(), "mapCell.ccbi", MapData.getMapCount());
+				var list = VeeTableViewController.createTableView(this.lyBody.getContentSize(), "mapCell.ccbi", MapData.getMapCount(), MapData);
 				this.lyBody.addChild(list);
 			}
 				break;

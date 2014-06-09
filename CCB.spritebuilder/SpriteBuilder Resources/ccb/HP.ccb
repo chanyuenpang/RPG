@@ -398,6 +398,8 @@
 								</array>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
@@ -664,7 +666,7 @@
 				<key>value</key>
 				<array>
 					<real>640</real>
-					<real>6</real>
+					<real>10</real>
 					<integer>1</integer>
 					<integer>1</integer>
 				</array>

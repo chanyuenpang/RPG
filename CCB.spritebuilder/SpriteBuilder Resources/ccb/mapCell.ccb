@@ -118,9 +118,9 @@
 						<string>Color3</string>
 						<key>value</key>
 						<array>
-							<real>0.76340270042419434</real>
-							<real>0.93041145801544189</real>
-							<real>0.67076748609542847</real>
+							<real>0.77194100618362427</real>
+							<real>0.7692379355430603</real>
+							<real>0.77476531267166138</real>
 							<real>1</real>
 						</array>
 					</dict>
@@ -144,8 +144,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>baseClass</key>
@@ -226,13 +224,15 @@
 						<string>Color3</string>
 						<key>value</key>
 						<array>
-							<real>0.50953036546707153</real>
-							<real>0.87034225463867188</real>
-							<real>0.44108983874320984</real>
+							<real>0.23137256503105164</real>
+							<real>0.76862752437591553</real>
+							<real>0.28235295414924622</real>
 							<real>1</real>
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>baseClass</key>

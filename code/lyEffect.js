@@ -17,6 +17,7 @@ var LyEffect = vee.Class.extend({
 	},
 
 	monsterAttack : function(value){
-
+		this.lbDamage.setString("-"+value);
+		this.playAnimate("Attack");
 	}
 });

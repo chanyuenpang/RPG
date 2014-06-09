@@ -11,6 +11,8 @@ require("lyDamage.js");
 require("monster.js");
 require("lyPopUp.js");
 require("mapData.js");
+require("role.js");
+require("lyRoleInfo.js");
 
 var game = game = game || {};
 
