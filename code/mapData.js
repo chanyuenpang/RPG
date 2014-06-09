@@ -188,6 +188,6 @@ var MapCell = VeeTableCellController.extend({
 	},
 
 	touched : function(table){
-		cc.log("touched " + this.getIdx());
+		RoleData.selectedMap = this.getIdx();
 	}
 });

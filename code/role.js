@@ -16,7 +16,8 @@ var RoleData = {
 	exp : 0,
 	element : [0,0,0,0,0,0,0],
 	selectedMap : 1,
-	maxMapLevel : 0
+	maxMapLevel : 0,
+	AP : 0
 }
 
 var Role = {
@@ -27,7 +28,7 @@ var Role = {
 	_ctlExp : null,
 
 	_hp : 0,
-	_currentHP : 0,
+	_currentHP : -1,
 	_sp : 0,
 	_rank : 0,
 	_attack : 0,
@@ -53,8 +54,10 @@ var Role = {
 
 	updateProperties : function(){
 		var fn = this._fn;
+		var oldHP = this._hp;
 		this._hp = 5*fn[RoleData.vitality] + RoleData.vitality;
-		this._currentHP = this._hp;
+		if (this._currentHP < 0) this._currentHP = this._hp;
+		else this._currentHP += this._hp-oldHP;
 		this._attack = 4*fn[RoleData.strength]+20 + fn[RoleData.intelligence]+10;
 		this._attackSpeed = 6*fn[RoleData.dexterity] + 30 + fn[RoleData.vitality] + 10;
 		this._defense = 3*fn[RoleData.vitality] + fn[RoleData.strength];
@@ -83,7 +86,9 @@ var Role = {
 	},
 
 	fn : function(x){
-		return this._fn[x];
+		var len = this._fn.length;
+		if (x < len) return this._fn[x];
+		else return this._fn[len-1];
 	},
 
 	reload : function(){
@@ -132,11 +137,6 @@ var Role = {
 
 	monsterKilled : function(lv){
 		var exp = this.countExp(lv);
-		vee.Utils.logValue({
-			exp : exp,
-			lv : lv,
-			expTotal : this._exp+exp
-		});
 		RoleData.exp += exp;
 		if (this._ctlExp) this._ctlExp.setValue(RoleData.exp, true);
 	},
@@ -154,6 +154,7 @@ var Role = {
 		var attack = vee.Utils.isLucky(mon._criticalRate) ? mon._criticalDamage : mon._attack;
 		var dam = this.countDamage(attack, this._defense, 0,0);
 		this._currentHP -= dam;
+		this._currentHP = Math.max(0, this._currentHP);
 		this._ctlHP.setValue(this._currentHP, true);
 		return dam;
 	},
