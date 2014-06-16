@@ -74,7 +74,7 @@ var LyGame = vee.Class.extend({
 
 	monsterAttack : function(){
 		var dam = Role.attacked(this._ctlMonster);
-		this._ctlEffect.monsterAttack(dam);
+		this._ctlEffect.monsterAttack(dam, this._ctlMonster.element);
 	},
 
 	onInfo : function(){

@@ -16,8 +16,9 @@ var LyEffect = vee.Class.extend({
 		ctl.setDamage(value, pos);
 	},
 
-	monsterAttack : function(value){
+	monsterAttack : function(value, element){
 		this.lbDamage.setString("-"+value);
+		this.lyColor.setColor(game.Element.getMajorColor(element));
 		this.playAnimate("Attack");
 	}
 });

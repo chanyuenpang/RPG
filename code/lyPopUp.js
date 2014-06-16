@@ -32,7 +32,7 @@ var LyPopUp = vee.Class.extend({
 		this.getContentByType(type);
 		this.lyTouch.setTouchEnabled(true);
 		var adjust = vee.PopMgr.originOffset.y;
-		var move = cc.MoveTo.create(0.35, cc.p(0, adjust));
+		var move = cc.MoveTo.create(0.3, cc.p(0, adjust));
 		this.rootNode.runAction(cc.EaseExponentialIn.create(move));
 	},
 
@@ -40,7 +40,7 @@ var LyPopUp = vee.Class.extend({
 		this.btnCloseEmpty.setVisible(false);
 		var fadeOut = cc.FadeTo.create(0.35, 0);
 		this.lyBG.runAction(fadeOut);
-		var move = cc.MoveTo.create(0.35, cc.p(0, -880));
+		var move = cc.MoveTo.create(0.2, cc.p(0, -880));
 		var back = cc.CallFunc.create(function(){
 			this.lyBody.removeAllChildren();
 			this.lyTouch.setTouchEnabled(false);

@@ -19,6 +19,36 @@ var LyRoleInfo = vee.Class.extend({
 		this.rootNode.addChild(scv);
 		this.lyBody.release();
 		scv.setContentOffset(cc.p(0, -size2.height + size.height));
-	}
+
+		var children = this.lyButtons.getChildren();
+		for (var i in children){
+			children[i].setTouchPriority(0);
+		}
+		this.updateData();
+	},
+
+	_data : null,
+	updateData : function(){
+		for (var i in RoleData){
+			/** @type {cc.LabelTTF} */
+			var lb = this['lb_'+i+'Value'];
+			if (lb) {
+				lb.setString(''+RoleData[i]);
+			}
+		}
+	},
+
+	addProperty : function(name){
+		if (RoleData[name]) {
+			RoleData[name]++;
+			Role.updateProperties();
+			this.updateData();
+		}
+	},
+
+	onAddStrength : function(){ this.addProperty('strength');},
+	onAddIntelligence : function(){ this.addProperty('intelligence');},
+	onAddDexterity : function(){ this.addProperty('dexterity');},
+	onAddVitality : function(){ this.addProperty('vitality');}
 
 });
