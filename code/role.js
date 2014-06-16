@@ -55,12 +55,12 @@ var Role = {
 	updateProperties : function(){
 		var fn = this._fn;
 		var oldHP = this._hp;
-		this._hp = 5*fn[RoleData.vitality] + RoleData.vitality;
+		this._hp = 25*fn[RoleData.vitality] + 10*RoleData.vitality;
 		if (this._currentHP < 0) this._currentHP = this._hp;
 		else this._currentHP += this._hp-oldHP;
 		this._attack = 4*fn[RoleData.strength]+20 + fn[RoleData.intelligence]+10;
 		this._attackSpeed = 6*fn[RoleData.dexterity] + 30 + fn[RoleData.vitality] + 10;
-		this._defense = 3*fn[RoleData.vitality] + fn[RoleData.strength];
+		this._defense = 4*fn[RoleData.vitality] + 20 + fn[RoleData.strength] + 10;
 		this._criticalRate = fn[RoleData.dexterity]/10000 + RoleData.luck/1000;
 		this._extraGold = fn[RoleData.luck];
 		this._eliteMonsterRate = (fn[RoleData.dexterity] + 250)/5000;
@@ -142,7 +142,7 @@ var Role = {
 	},
 
 	countDamage : function(attack, defense, ele1, ele2){
-		return Math.ceil(vee.Utils.randomInt(90, 120)/2000*( 1+ Math.max(0, 1.5*(attack*1.2 - defense))));
+		return Math.ceil(vee.Utils.randomInt(90, 120)/500*( 1+ Math.max(0, 1.5*(attack*1.2 - defense))));
 	},
 
 	attack : function(mon){

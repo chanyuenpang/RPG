@@ -57,7 +57,7 @@ var Monster = vee.Class.extend({
 		this._isAnimating = false;
 		this._isAttacking = false;
 
-		this._attackChance = Math.max(0.1, Math.min(0.5, (1.3*this._attackSpeed-Role._attackSpeed)/this._attackSpeed/1.8));
+		this._attackChance = Math.max(0.025, Math.min(0.5, (1.3*this._attackSpeed-Role._attackSpeed)/this._attackSpeed/1.8));
 
 		var children = this.lyMonster.getChildren();
 		var color = game.Element.getMajorColor(this.element);
